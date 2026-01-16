@@ -61,3 +61,10 @@ Hi there, I'm Shravani Kurkute 👋
 ---
 
 ✨ Learning by doing. Improving every day.
+
+## 📊 GitHub Stats
+
+![Shravani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shravani-kurkute&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shravani-kurkute&theme=tokyonight)
+
