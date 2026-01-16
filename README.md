@@ -1,8 +1,7 @@
 Hi there, I'm Shravani Kurkute 👋  
 
 🚀 Tech Enthusiast | Web Development • AI • Open Source  
-🎓 B.Tech Computer Engineering Student  
-💡 Curious learner who loves building and experimenting  
+🎓 B.Tech Computer Engineering Student   
 
 ---
 
