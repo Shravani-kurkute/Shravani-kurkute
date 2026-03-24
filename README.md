@@ -62,6 +62,6 @@ Hi there, I'm Shravani Kurkute 👋
 
 ---
 
-✨ Learning by doing. Improving every day.
+✨ Learning by doing. Improving every day...
 
 
