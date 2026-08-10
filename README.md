@@ -1,67 +1,140 @@
-Hi there, I'm Shravani Kurkute 👋  
+# Hi there, I'm Shravani Kurkute 👋
 
-🚀 Tech Enthusiast | Web Development • AI • Open Source  
-🎓 B.Tech Computer Engineering Student   
+🚀 **Tech Enthusiast | Full-Stack Development • AI • Software Engineering**  
+🎓 **B.Tech Computer Engineering Student | VIIT Pune**
 
 ---
 
 ## 🌟 About Me
 
-- 💻 Interested in **Web Development**, **AI**, and **software fundamentals**
-- ⚡ Enjoy participating in **hackathons** and team-based problem solving
-- 🧠 Like exploring how technology can create **impactful solutions**
+- 💻 Interested in **Full-Stack Development, Backend Engineering, and AI**
+- 🤖 Exploring **LLMs, RAG, semantic search, and AI-powered applications**
+- ⚡ Enjoy participating in **hackathons** and building practical solutions
+- 🧩 Interested in building **scalable, reliable, and user-focused applications**
+- 📚 Continuously strengthening my **software engineering and computer science fundamentals**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 💻 Languages
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+🐍 Python  
+☕ Java  
+🟨 JavaScript  
+🗄️ SQL  
 
+### 🤖 AI / GenAI
 
-### Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_(Learning)-777BB4?style=for-the-badge&logo=php&logoColor=white)
+🤖 LLMs  
+🔎 Retrieval-Augmented Generation (RAG)  
+🧠 LangChain  
+📚 FAISS  
+✨ Prompt Engineering  
+🔗 Embeddings & Semantic Search  
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DB2](https://img.shields.io/badge/IBM_DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+### 🎨 Frontend
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+⚛️ React.js  
+🌐 HTML5  
+🎨 CSS3  
+🟨 JavaScript  
+
+### ⚙️ Backend
+
+⚡ FastAPI  
+🟢 Node.js  
+🚂 Express.js  
+🔗 REST APIs  
+🔌 API Integration  
+
+### 🗄️ Databases
+
+🐬 MySQL  
+🐘 PostgreSQL  
+🍃 MongoDB  
+🗃️ SQLite  
+
+### ☁️ DevOps & Tools
+
+🐳 Docker  
+🐧 Linux  
+🔧 Git  
+🐙 GitHub  
+📮 Postman  
+☁️ AWS Fundamentals  
+🔄 CI/CD Fundamentals  
+💻 VS Code  
+📓 Jupyter Notebook  
+
+### 🧪 Testing
+
+✅ API Testing  
+🧪 Unit Testing  
+🔍 Functional Testing  
+🐞 Debugging  
 
 ---
 
 ## 🔧 What I Like Working On
 
-- 🌐 Full-stack web projects  
-- 🤖 Exploring AI concepts through small experiments  
-- 🧩 Hackathon projects & rapid prototyping  
-- 📚 Strengthening core computer science skills  
+- 🤖 **AI-powered applications** and practical AI experiments
+- 🔎 **RAG, semantic search, embeddings, and LLM applications**
+- 🌐 **Full-stack web applications**
+- ⚙️ **Backend services and REST API development**
+- 🔗 **System integrations and database-driven applications**
+- 🧩 **Hackathons, rapid prototyping, and problem solving**
+- 🧪 **Testing, debugging, and improving application reliability**
+- 📚 Learning new technologies by building real projects
 
 ---
 
-## 🤝 Let’s Connect
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shravani-kurkute-8a7b0a28a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Shravani-kurkute)
+### 🛡️ SentinelAI — Enterprise SOC & SIEM Platform
 
+Full-stack security platform built using **Python, FastAPI, React, PostgreSQL, and Docker** for log processing, event analysis, and security monitoring.
+
+🔗 [View Project](https://github.com/Shravani-kurkute/SOC-Analayzer.git)
+
+### 📦 AssetTrack — Asset & Inventory Management System
+
+Enterprise application built using **FastAPI, MySQL, REST APIs, and authentication** for asset lifecycle and inventory management.
+
+🔗 [View Project](https://github.com/Shravani-kurkute/Asset-Tracking-System1.git)
+
+### 🅿️ ParkMitra — Smart Parking Management System
+
+Web application built using **React.js, Node.js, and MySQL** for parking slot booking and real-time availability management.
+
+🔗 [View Project](https://github.com/Shravani-kurkute/Park-Mitra-Final.git)
+
+### 🍱 RePlate — Smart Surplus Food Redistribution Platform
+
+Full-stack platform built using **Node.js, Express.js, and MySQL** to connect food donors, NGOs, and beneficiaries through role-based workflows.
+
+🔗 [View Project](https://github.com/Shravani-kurkute/RePlate-A-Smart-Surplus-Food-Redistribution-Platform-Final-.git)
 
 ---
 
-✨ Learning by doing. Improving every day...
+## 🏆 Achievements
 
+- 🥇 **Winner — INNOVO'25 National Hackathon**
+- 📄 **IEEE International Conference Presenter & Co-Author**
+- 💡 **Selected for YUKTI Innovation Challenge 2025 — Round 2**
+- 🚀 **Shortlisted for Flipkart GRiD 7.0**
+- 💻 Built multiple full-stack, backend, and AI-enabled projects
 
+---
+
+## 🤝 Let's Connect
+
+💼 **LinkedIn:** [Shravani Kurkute](https://www.linkedin.com/in/shravani-kurkute-8a7b0a28a/)
+
+🐙 **GitHub:** [Shravani-kurkute](https://github.com/Shravani-kurkute)
+
+📧 **Email:** [shravanikurkute9@gmail.com](mailto:shravanikurkute9@gmail.com)
+
+---
+
+### ✨ Learning by building. Building by solving. Improving every day.
